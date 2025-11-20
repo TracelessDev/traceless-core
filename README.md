@@ -53,7 +53,7 @@ SAVE YOUR SEED PHRASE. If you lose it, your identity is gone forever.
 STEP 2: GET FUEL (GAS)
 You need testnet tokens to pay for blockchain gas.
 1. Copy your address from the menu (Option 4).
-2. Go to a Faucet: https://www.alchemy.com/faucets/polygon-amoy
+2. Go to a Faucet: https://faucet.polygon.technology/
 3. Paste your address and claim free POL (MATIC).
 
 STEP 3: THE HANDSHAKE
@@ -82,3 +82,4 @@ The protocol protects the *content* of your messages. Your *anonymity* depends o
 This software is provided "as is". By using Traceless, you acknowledge that your encrypted messages become a public part of the blockchain history. The authors are not responsible for how this tool is used.
 
 Welcome to the Resistance.
+
